@@ -48,7 +48,7 @@ class LoginPage extends StatelessWidget {
                 decoration: const InputDecoration(
                   border: OutlineInputBorder(),
                   labelText: "PassWord",
-                  hintText: "Nhập PassWord của bạn",
+                  hintText: "Nhập Password",
                 ),
               ),
               SizedBox(height: 10),
